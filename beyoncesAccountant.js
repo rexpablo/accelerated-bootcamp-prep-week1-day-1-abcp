@@ -1,4 +1,4 @@
-
+var totalsum
 console.log("Dear Beyonce,")
 console.log("We have calculated your total earnings this year.")
 console.log("You have earned " + beyoncesMoney)
