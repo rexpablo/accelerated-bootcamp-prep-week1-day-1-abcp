@@ -3,7 +3,7 @@ console.log("Dear Beyonce,")
 console.log("We have calculated your total earnings this year.")
 console.log("You have earned " + totalSum)
 console.log("Of" + totalSum + " some portion derives from your live performances.")
-console.log("Of some portion derives from music sales.")
+console.log("Of"+ totalSum + "some portion derives from music sales.")
 
 
 // DON'T DO THIS PART YET:
